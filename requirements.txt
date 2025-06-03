@@ -1,0 +1,7 @@
+streamlit
+numpy
+math
+reportlab
+base64
+datetime
+io
